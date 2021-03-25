@@ -332,7 +332,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Bassam Kurdali
 1. Bastien Nocera (Former director, GNOME Foundation)
 1. Behdad Esfahbod (Former director / president, GNOME Foundation)
-1. Ben Bromhead
 1. Ben Brown
 1. Ben Cotton (Fedora Project contributor)
 1. Ben Evans
@@ -385,6 +384,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brad Solomon
 1. Bram Hagens
 1. Brandon Butler
+1. Brandon Dimcheff (@bdimcheff)
 1. Brandon Frohs (@0b10011)
 1. Bread Man
 1. Brendan Abolivier (Matrix Developer)
@@ -1968,7 +1968,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rémi Verschelde (Godot Engine, Mageia)
 1. Rémy Grünblatt
 1. Renata Rocha
-1. Renato Botelho (FreeBSD developer)
 1. Renaud Lepage
 1. René Ladan (FreeBSD Developer)
 1. Reuben Morais
