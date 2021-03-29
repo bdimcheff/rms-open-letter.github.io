@@ -462,6 +462,7 @@ Free Software Contributor)
 1. Bram Hagens
 1. Branden Higby
 1. Brandon Butler
+1. Brandon Dimcheff (@bdimcheff)
 1. Brandon Frohs (@0b10011)
 1. Bread Man
 1. Brendan Abolivier (Matrix Developer)
